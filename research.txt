@@ -1,21 +1,4 @@
 Data Structures and Algorithms Group 7  - Research Document
-Student Information
-1.Alvin Kiprop-BSCCS/2025/52160
-2.Eddy Munyua-BSCCS/2025/47991
-3.Maxwell Munene-BSCCS/2025/51289
-4.Vincent Kapkoyo-BSCCS/2025/51583
-5.Keith Kyule-BSCCS/2025/49920
-6.Enoch Onkoba-BSCCS/2025/55142
-7.Eton Mutugi -BSCCS/2025/47559
-8.Walcott Isaac-BSCCS/2025/48040
-9.
-10.
-
-
-
-
-
-
 
 TASK 1.2: Applications of Data Structures
 1. Arrays
